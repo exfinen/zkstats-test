@@ -5,7 +5,7 @@ description = ""
 
 [tool.poetry.dependencies]
 python = "^3.12"
-zkstats = {path = "../../zk-stats-lib"}
+zkstats = {path = "./zk-stats-lib"}
 torch = "^2.3.0"
 
 [build-system]

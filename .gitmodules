@@ -1,0 +1,3 @@
+[submodule "zk-stats-lib"]
+	path = zk-stats-lib
+	url = https://github.com/ZKStats/zk-stats-lib.git
