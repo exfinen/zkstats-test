@@ -1,9 +1,9 @@
 # zkstats-test
 
-## Running test
+## How to run the test script
 ```bash
 $ cd zk-stats-lib
-$ remove poetry.lock  # maybe necessary
+$ rm poetry.lock  # maybe necessary
 $ poetry install
 $ cd ..
 $ poetry install --no-root
