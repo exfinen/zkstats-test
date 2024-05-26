@@ -1,0 +1,6 @@
+.data_commitments.json
+*.json
+!data.json
+*.onnx
+test.*
+*.compiled
